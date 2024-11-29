@@ -1,0 +1,6 @@
+Exercício: Faça a parte de uma rede social, apenas a parte de página de  usuário (perfil) e página de amigos/seguidores,
+Importante: Botão amigos na página de usuário para ver os amigos do usuário. Ao clicar  no nome de qualquer amigo, abra o perfil deste amigo.
+Rotas:
+/usuario/:nome
+/amigos/:nome
+/register/
